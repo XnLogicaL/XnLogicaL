@@ -1,1 +1,1 @@
-# Hi I do dumb software stuff
+# Hi there, I do dumb software stuff
