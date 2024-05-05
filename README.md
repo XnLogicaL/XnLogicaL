@@ -7,7 +7,7 @@ I live in Ankara, Turkey (Türkiye) and my timezone is UTC+3
 I have game dev experience in Roblox + Freelancing.
 
 # Languages
-- C++ (Intermediate)
+- C++ (Beginner)
 - JS/TS (Intermediate)
 - Lua/Luau (Expert)
 - Python (Intermediate)
