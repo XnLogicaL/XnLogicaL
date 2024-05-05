@@ -3,6 +3,9 @@
 I'm a self taught programmer and I'm currently attending high school.
 I live in Ankara, Turkey (Türkiye) and my timezone is UTC+3
 
+
+I have game dev experience in Roblox + Freelancing.
+
 # Languages
 - C++ (Intermediate)
 - JS/TS (Intermediate)
