@@ -6,7 +6,7 @@ I live in Ankara, Turkey (Türkiye) and my timezone is UTC+3
 
 I have a deep passion of coding and developing apps and games. I've been coding since I was 10 years old.
 I also do freelancing on Roblox as a game developer, and I've worked on more than 100 projects on Roblox.
-I'm also always learning other programming languages as you can see below, as I'm running for a career in software development.
+I'm always learning other programming languages as you can see below, it's never too late to learn!
 
 I also like to play games in my free time.
 
@@ -16,3 +16,7 @@ I also like to play games in my free time.
 - Lua/Luau (Expert)
 - Python (Intermediate)
 - HTML/CSS (Beginner)
+
+# Contacts
+If you ever need to reach me, feel free to do so anytime!
+- Discord: `ceo_oftaxfraud`
