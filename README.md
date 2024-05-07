@@ -12,10 +12,10 @@ I mostly post open-source passion projects here, so don't expect anything crazy 
 I also like to play games in my free time.
 
 # Languages
-- 💻C++ (Beginner)
-- 🟡🔵JS/TS (Intermediate)
-- 🌙Lua/Luau (Expert)
-- :snake:Python (Intermediate)
+- 💻 C++ (Beginner)
+- 🟡🔵 JS/TS (Intermediate)
+- 🌙 Lua/Luau (Expert)
+- :snake: Python (Intermediate)
 - HTML/CSS (Beginner)
 
 # Contacts
