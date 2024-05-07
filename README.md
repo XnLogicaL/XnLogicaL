@@ -31,3 +31,5 @@ I do not develop malicious software such as;
 - Exploits
 - Cheats
 - etc.
+
+This is not a portfolio. Not for hire.
