@@ -23,4 +23,11 @@ If you ever need to reach me, feel free to do so anytime!
 - Discord: `ceo_oftaxfraud`
 
 ## PS
-Everything I post here is mine or includes credit for the original author.
+Everything I post here is licensed by me or includes credit for the original author.
+
+I do not develop malicious software such as;
+- Malware
+- Spyware
+- Exploits
+- Cheats
+- etc.
