@@ -21,3 +21,6 @@ I also like to play games in my free time.
 # Contacts
 If you ever need to reach me, feel free to do so anytime!
 - Discord: `ceo_oftaxfraud`
+
+## P.S.
+Everything I post here is mine or includes credit for the original author.
