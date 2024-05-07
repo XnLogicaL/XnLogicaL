@@ -16,7 +16,7 @@ I also like to play games in my free time.
 - 🟡🔵 JS/TS (Intermediate)
 - 🌙 Lua/Luau (Expert)
 - :snake: Python (Intermediate)
-- HTML/CSS (Beginner)
+- 🕸️ HTML/CSS (Beginner)
 
 # Contacts
 If you ever need to reach me, feel free to do so anytime!
