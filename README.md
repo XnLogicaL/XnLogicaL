@@ -24,7 +24,6 @@ If you ever need to reach me, feel free to do so anytime!
 
 ## PS
 Everything I post here is licensed by me or includes credit for the original author.
-
 I do not develop malicious software such as;
 - Malware
 - Spyware
