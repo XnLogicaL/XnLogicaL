@@ -15,7 +15,7 @@ I also like to play games in my free time.
 - 💻 C++ (Beginner)
 - 🟡🔵 JS/TS (Intermediate)
 - 🌙 Lua/Luau (Expert)
-- :snake: Python (Intermediate)
+- :snake: Python (Advanced)
 - 🕸️ HTML/CSS (Beginner)
 
 # Contacts
@@ -23,13 +23,4 @@ If you ever need to reach me, feel free to do so anytime!
 - Discord: `ceo_oftaxfraud`
 
 ## PS
-Everything I post here is licensed by me or includes credit for the original author.
-
-I do not develop malicious software such as;
-- Malware
-- Spyware
-- Exploits
-- Cheats
-- etc.
-
-This is not a portfolio. Not for hire.
+Everything I post here is licensed by me or includes credit for the original author. I do not develop malicious software such as Malware, Spyware, Exploits, Cheats, etc. This is not a portfolio. Not for hire.
