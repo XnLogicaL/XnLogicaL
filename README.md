@@ -17,6 +17,7 @@ I also like to play games in my free time.
 - 🌙 Lua/Luau (Expert)
 - :snake: Python (Advanced)
 - 🕸️ HTML/CSS (Beginner)
+- 🦀 Rust (Beginner)
 
 # Contacts
 If you ever need to reach me, feel free to do so anytime!
