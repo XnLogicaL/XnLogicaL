@@ -20,7 +20,7 @@ I also like to play games and watch sci-fi (mainly Star Trek) in my free time.
 - 🦀 Rust (Beginner)
 
 # Contacts
-If you ever need to reach me, feel free to do so anytime!
+If you ever need to reach me for collaborations, questions, etc., feel free to do so anytime!
 - Discord: `ceo_oftaxfraud`
 
 ## PS
