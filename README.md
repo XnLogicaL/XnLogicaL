@@ -9,7 +9,7 @@ I also do freelancing on Roblox as a game developer, and I've worked on more tha
 I'm always learning other programming languages as you can see below, it's never too late to learn!
 I mostly post open-source passion projects here, so don't expect anything crazy (for now :D)
 
-I also like to play games in my free time.
+I also like to play games and watch sci-fi (mainly Star Trek) in my free time.
 
 # Languages
 - 💻 C++ (Beginner)
