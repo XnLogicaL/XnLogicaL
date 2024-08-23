@@ -1,7 +1,7 @@
 :wave: Hello, I'm XnLogicaL or CEO as some people know me.
 
 I'm a self taught programmer and I'm currently attending high school.
-I live in Turkey (Türkiye) and my timezone is UTC+3 or EST-7 for my fellow Americans.
+I live in Turkey (Türkiye) and my timezone is UTC+3 or GMT+2.
 
 
 I have a deep passion for coding and developing apps and games. I've been coding since I was 10 years old.
