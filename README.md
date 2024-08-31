@@ -12,7 +12,7 @@ I mostly post open-source passion projects here, so don't expect anything crazy 
 I also like to play games and watch sci-fi (mainly Star Trek) in my free time.
 
 # Languages
-- 💻 C++ (Intermediate)
+- 💻 C++ (Advanced)
 - 🟡🔵 JS/TS (Intermediate)
 - 🌙 Lua/Luau (Expert)
 - :snake: Python (Advanced)
