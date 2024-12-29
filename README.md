@@ -2,7 +2,7 @@
 
 I'm a self-taught systems programmer and freelance game developer (on Roblox) and a high school student from Turkey.
 I have a deep passion for programming and open-source.
-My most ambitious project (and probably the biggest achievement of my life to date), is my fully custom scripting language: [via](https://github.com/XnLogicaL/via-lang).
+I'm also possibly the first person to enjoy coding in C++, by far my favorite language.
 
 # Languages
 - 💻 C++ (Advanced/Expert)
