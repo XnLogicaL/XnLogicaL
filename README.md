@@ -1,6 +1,6 @@
 # Welcome 👋
 
-I'm a 17yo self-taught Systems Programmer and high school student from Turkey/Türkiye 🇹🇷
+I'm a 17yo self-taught engineer and high school student from Turkey/Türkiye 🇹🇷
 
 ## About ❓
 
