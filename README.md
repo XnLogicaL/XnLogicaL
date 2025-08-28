@@ -1,4 +1,4 @@
-# Welcome to my profile 👋
+# Welcome 👋
 
 I'm a 17yo high school student from Turkey/Türkiye 🇹🇷
 
