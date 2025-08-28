@@ -1,8 +1,6 @@
 # Welcome 👋
 
-I'm a 17yo high school student from Turkey/Türkiye 🇹🇷
-
-*Also a self-proclaimed Systems Programmer and Freelance Game Developer*
+I'm a 17yo self-taught Systems Programmer and high school student from Turkey/Türkiye 🇹🇷
 
 ## About ❓
 
@@ -15,7 +13,7 @@ My interests range from memory management libraries to linkers, so pretty much a
 
 Things that I use on a daily basis.
 
-- GitHub: obviously
+- [GitHub](https://github.com): obviously
 - [C](https://en.wikipedia.org/wiki/C_(programming_language))/[C++](https://en.wikipedia.org/wiki/C%2B%2B): My goto programming languages that I use for systems projects.
 - [CMake](https://cmake.org/): I use CMake to build my C/C++ projects, not out of preference but necessity.
 - [VSCode](https://code.visualstudio.com/): My main text editor that I use for pretty much everything. (too lazy to switch to vim)
