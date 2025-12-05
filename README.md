@@ -10,6 +10,5 @@ That's about it, no need to yap here..
 
 ## Contact
 - discord: `ceo_oftaxfraud`
-- email: `xnlogical@gmail.com` 
 
 **See pinned projects for cool stuff*
