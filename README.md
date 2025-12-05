@@ -1,11 +1,11 @@
 # Welcome 👋
 
-I'm a 17yo self-taught engineer and high school student from Turkey/Türkiye 🇹🇷
+I'm a 16-yo self-taught engineer and high school student from Turkey/Türkiye 🇹🇷
 
 ## About ❓
 
 I ❤️ programming in C/C++, and the technical aspects of the systems programming space.
-My interests range from memory management libraries to linkers, so pretty much anything low-level is my cup of tea.
-Yeah that's about it, no need to yap in a GitHub profile...
+Interested in pretty much everything low level.!
+That's about it, no need to yap here
 
 **See pinned projects for cool stuff*
