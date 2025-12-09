@@ -1,14 +1,18 @@
-# Welcome 👋
+## Welcome 👋
 
 I'm a 16-yo self-taught engineer and high school student from Turkey/Türkiye 🇹🇷
 
-## About ❓
+*Self-proclaimed* systems engineer (primarily x86) and freelance game developer
 
-I ❤️ programming, open source, and learning.
-Interested in compilers, interpreters, among other things.
+### About ❓
+
+- I ❤️ programming, open source, and learning.
+- Interested in compilers, interpreters, among other things.
+- Life-long gamer
+- Massive Star Trek & sci-fi fan
+
 That's about it, no need to yap here..
 
-## Contact
-- discord: `ceo_oftaxfraud`
+You may contact me via Discord, just shoot me a friend/message request (username: `ceo_oftaxfraud`)
 
-**See pinned projects for cool stuff*
+**See pinned projects for cool stuff* 😎
